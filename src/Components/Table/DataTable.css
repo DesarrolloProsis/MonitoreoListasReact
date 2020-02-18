@@ -44,10 +44,10 @@ p {
 .bg-blue{
     /* background-color: #C42847 !important; */
     background-image: 
-    linear-gradient(to top, transparent, #EB984E 
+    linear-gradient(to top, transparent, #4b87af 
     
     ),    
-    linear-gradient(to right, #EB984E , #DC7633, #EB984E );
+    linear-gradient(to right, #4b87af , #4b87af, #4b87af );
         background-size: 100% 100%, 2000% 100%;
         animation: move 2s infinite;
 }
