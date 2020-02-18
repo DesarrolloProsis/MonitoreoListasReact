@@ -1,0 +1,57 @@
+
+.amarillo{
+    /* background-color: #F7DC6F !important; */
+    background-image: 
+    linear-gradient(to top, transparent, #F1C40F),    
+    linear-gradient(to right, #F1C40F, yellow, #F1C40F);
+        background-size: 100% 100%, 2000% 100%;
+        animation: move 2s infinite;
+}
+@keyframes move {
+    from {background-position: center center, left center;}
+    to {background-position: center center, right center;}
+   }
+.bg-red{
+    /* background-color: #C42847 !important; */
+    background-image: 
+    linear-gradient(to top, transparent, #C42847),    
+    linear-gradient(to right, #C42847, red, #C42847);
+        background-size: 100% 100%, 2000% 100%;
+        animation: move 2s infinite;
+}
+@keyframes move {
+    from {background-position: center center, left center;}
+    to {background-position: center center, right center;}
+   }
+
+.bg-defaults{
+    background-color: #BFC9CA !important;
+}
+.texto-medio{
+    vertical-align: middle !important;
+}
+.select:hover{
+    vertical-align: middle !important;
+    opacity: .8 !important;
+}
+.table{
+    margin-bottom: 0 !important;
+}
+p {
+    margin-top: 0 !important;
+    margin-bottom: 0rem !important;
+}
+.bg-blue{
+    /* background-color: #C42847 !important; */
+    background-image: 
+    linear-gradient(to top, transparent, #EB984E 
+    
+    ),    
+    linear-gradient(to right, #EB984E , #DC7633, #EB984E );
+        background-size: 100% 100%, 2000% 100%;
+        animation: move 2s infinite;
+}
+@keyframes move {
+    from {background-position: center center, left center;}
+    to {background-position: center center, right center;}
+   }

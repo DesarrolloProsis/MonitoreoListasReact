@@ -1,0 +1,54 @@
+.header-table{
+    padding: 5px;
+
+    
+}
+.text-centrado {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.color-blanco {
+    color: white !important;
+}
+
+.fondo {
+    background-color: #145374;
+    border: #145374 !important;
+    color: white;
+}
+
+.activeLinks {
+    background-color: #145374 !important;
+    border: #145374 !important;
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    padding: 10px;
+    color: white;
+}
+
+.Links {
+    background-color: #343a40;
+    border-color: #145374
+}
+
+.tabs {
+    background-color: #343a40;
+    border: #145374 !important;
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    padding: 10px;
+    color: white;
+}
+
+.tabs:hover {
+    background-color: #343a40;
+    border: #145374 !important;
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    padding: 10px;
+    color: white;
+}
